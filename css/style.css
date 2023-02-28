@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root {
+    --color1: #000000;
+    --color2: #ffffff;
+    --valcolor: #fa4454;
+}
+::-webkit-scrollbar{
+    background-color: var(--color1);
+}
+.main{
+    background-color: var(--color1);
+    color: var(--color2);
+}

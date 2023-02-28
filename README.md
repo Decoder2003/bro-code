@@ -19,5 +19,5 @@
         <a href="https://twitter.com/TenZOfficial">  <img style="width:5%;" src="https://decoder2003.github.io/gameplay/assests/twitter.png"> </a>
         <a href="https://www.twitch.tv/tenz">  <img style="width:5%;" src="https://decoder2003.github.io/gameplay/assests/twitch.png"> </a>
     </div>
-    <div> <p style="font-family:sans-serif; margin: 10px 0px; font-size: 15px;"> ©2022 Copyright gamePlay. All Rights Reserved. </p> </div>
+    <div> <p style="font-family:sans-serif; margin: 10px 0px; font-size: 15px;"> ©2023 Copyright gamePlay. All Rights Reserved. </p> </div>
 </div>
