@@ -1,16 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 :root {
     --color1: #000000;
     --color2: #ffffff;
-    --valcolor: #fa4454;
+    --valcolor: #FF1D00;
 }
 ::-webkit-scrollbar{
     background-color: var(--color1);
+    display: none;
 }
 .main{
     background-color: var(--color1);
     color: var(--color2);
 }
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 10px;
+    flex-direction: column;
+}
+.nav-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-logo img{
+    width: 30%;
+}
+.nav-logo p{
+    padding: 0px 10px;
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+.navbar-content{
+    list-style: none;
+    display: flex;
+}
+.navbar-content li{
+    margin: 10px 12px;
+    transition: all 0.8s ease 0.1s;
+    padding: 10px 10px;
+}
+.navbar-content li:hover{
+    cursor: pointer;
+    background-color: var(--valcolor);
+}
+.navbar-content a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+.bars{
+    background: var(--color2);
+    padding: 5px;
+    border-radius: 50%;
+    cursor: pointer;
+    color: var(--color1);
+    display: none;
+}     
+#check {
+    display: none;
+}
+@media (max-width: 520px){
+    .bars{
+        display: block;
+    }
+    .navbar nav{
+        display: none;
+    }
+}
+
