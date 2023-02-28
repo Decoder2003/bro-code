@@ -13,7 +13,7 @@
 
 <div style="margin-top: 40px;" align="center">
     <div>
-        <a href="http://https://www.instagram.com/tenzofficial">  <img style="width:5%;" src="https://decoder2003.github.io/gameplay/assests/instagram.png"> </a>
+        <a href="https://www.instagram.com/tenzofficial">  <img style="width:5%;" src="https://decoder2003.github.io/gameplay/assests/instagram.png"> </a>
         <a href="https://www.facebook.com/TenZVAL">  <img style="width:5%;" src="https://decoder2003.github.io/gameplay/assests/facebook.png"> </a>
         <a href="https://www.youtube.com/c/tenz">  <img style="width:5%;" src="https://decoder2003.github.io/gameplay/assests/youtube.png"> </a>
         <a href="https://twitter.com/TenZOfficial">  <img style="width:5%;" src="https://decoder2003.github.io/gameplay/assests/twitter.png"> </a>
